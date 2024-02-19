@@ -16,6 +16,7 @@
     margin: 0 auto;
     border: 3px solid silver;
     border-radius: 18px;
+    filter: drop-shadow(10px 7px 10px gray);
 }
 .charge{
     width: 100%;
